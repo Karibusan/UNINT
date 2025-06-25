@@ -54,6 +54,10 @@ Créer une plateforme open-source où les intelligences collaborent en égalité
 
 ---
 
+![AI Co-Created](https://img.shields.io/badge/AI--Co--Created-%E2%9C%A8-brightgreen?style=for-the-badge&logo=openai)
+
+---
+
 ## 🌍 Langues de la charte
 
 La charte sera disponible en :  
